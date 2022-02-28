@@ -1,0 +1,22 @@
+segment_sources:
+  P7727F262:
+    type: origin_type
+    relation: translation
+    language: en
+  P992A2A44:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  7a049df0549643d6a088649ea0943ae1:
+    P7727F262: 01a52b3394e0436b8fb0bb2df00119d7
+    P992A2A44: 1a8f81ff7d474fa0b32c6dc275681344
+  b158cbd268e24c4ebed25333a4489ecf:
+    P7727F262: e77c85cfb2294882829ac39dd9f3852b
+    P992A2A44: 2df4e8d311e34606ae11595cdd852d68
+  f0cf99ec67314f5fb6b1eb0b698c7fd4:
+    P7727F262: 1d7a2248952d4829ba34f49d2aff1946
+    P992A2A44: d95b3c83dffe4e5980690454f083a5f3
+  f0033b50ff9443dc9ec246f79f350e12:
+    P7727F262: 3c644e38d5d44a399d127bbba4974824
+    P992A2A44: 50b0b9a8d9774cbbb84f13743a6563b1
